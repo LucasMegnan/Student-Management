@@ -1,7 +1,3 @@
-Certainly! Below is a sample `README.md` file for your GitHub repository based on the description and functionality of your project.
-
----
-
 # Student Data Management System
 
 ## Overview
